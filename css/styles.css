@@ -1,0 +1,20 @@
+body{background-color: blue}
+ h1{
+   color: indigo;
+   text-align: center;
+ }
+ h2{
+   color: yellow;
+   text-align: center;
+ }
+p{
+  font-family: monospace;
+}
+ul{
+  font-style: oblique;
+}
+ol{
+  color: #21C664;
+  font-style: italic;
+  font-weight: bold;
+}
